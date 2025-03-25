@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsionshime&label=Profile%20views&color=0e75b6&style=flat" alt="tsionshime" /> </p>
 
-- 🔭 I’m currently working on **25 simple react projects**
+- 🔭 I’m currently working on **Testing my task management api**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Nodejs**
 
 - 📫 How to reach me **tsionshimelis900@gmail.com**
 
