@@ -4,18 +4,6 @@
 
 ### Passionate problem-solver building robust and scalable applications.
 
-<p align="center">
-  <a href="https://github.com/TsiOnshime">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tsionshimelis&layout=compact&hide_title=true&theme=dark" alt="Tsion's WakaTime Stats" /> </a>
-  <br/>
-  <a href="https://github.com/TsiOnshime">
-    <img src="https://github-readme-stats.vercel.app/api?username=tsionshimelis&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Tsion's GitHub Stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/TsiOnshime">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsionshimelis&layout=compact&theme=dark" alt="Tsion's Top Languages" />
-  </a>
-</p>
 
 ---
 
