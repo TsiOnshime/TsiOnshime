@@ -6,7 +6,14 @@
 
 <p align="center">
   <a href="https://github.com/tsionshimelis">
-    <img src="https://user-images.githubusercontent.com/97486806/171736692-0b1d0b00-3490-410a-b605-e1d5e6e3c6a4.gif" alt="GitHub Readme Stats" width="600"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tsionshimelis&layout=compact&hide_title=true&theme=dark" alt="Tsion's WakaTime Stats" /> </a>
+  <br/>
+  <a href="https://github.com/tsionshimelis">
+    <img src="https://github-readme-stats.vercel.app/api?username=tsionshimelis&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Tsion's GitHub Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/tsionshimelis">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsionshimelis&layout=compact&theme=dark" alt="Tsion's Top Languages" />
   </a>
 </p>
 
