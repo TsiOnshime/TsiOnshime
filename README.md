@@ -25,6 +25,7 @@ I'm a passionate Backend developer in Nodejs, and I'm currently learning Django 
 ### Swift Scooters
 
 ![Project 1 Screenshot](project_1_screenshot_url)
+<img src="https://i.ibb.co/fYQ6tgZW/Screenshot-2025-06-26-at-6-20-52-PM.png" alt="Screenshot-2025-06-26-at-6-20-52-PM" border="0">
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
