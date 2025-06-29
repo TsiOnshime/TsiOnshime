@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/G3xcMwNb/t.jpg" alt="Tsion Shimelis Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="https://i.ibb.co/G3xcMwNb/t.jpg" alt="Tsion Shimelis Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #007ACC; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <h1>Hi there, I'm Tsion Shimelis! 👋</h1>
   <h3>Passionate Backend Developer | ALX Learner</h3>
 </div>
