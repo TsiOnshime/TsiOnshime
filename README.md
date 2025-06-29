@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" alt="Tsion Shimelis Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="[YOUR_PROFILE_PICTURE_URL](https://i.ibb.co/G3xcMwNb/t.jpg)" alt="Tsion Shimelis Profile Picture" width="150" style="border-radius: 50%;">
   <h1>Hi there, I'm Tsion Shimelis! 👋</h1>
   <h3>Passionate Backend Developer | ALX Learner</h3>
 </div>
@@ -96,29 +96,6 @@
 
 ---
 
-### Project Name (Example - Your Second Key Project)
-
-<div align="center">
-  <a href="LINK_TO_YOUR_SECOND_PROJECT_REPO">
-    <img src="URL_TO_YOUR_SECOND_PROJECT_IMAGE" alt="Second Project Screenshot" width="500" style="border-radius: 8px; border: 1px solid #ddd;">
-  </a>
-</div>
-
-<ul>
-  <li><strong>Role:</strong> [Your Role]</li>
-  <li><strong>Description:</strong> [A concise and engaging description of what the project does and its purpose.]</li>
-  <li><strong>Key Contributions:</strong>
-    <ul>
-      <li>[Bullet point 1: Specific accomplishment or feature you developed]</li>
-      <li>[Bullet point 2: Another significant contribution, perhaps a technical challenge overcome]</li>
-      <li>[Bullet point 3: Impact or result of your work]</li>
-    </ul>
-  </li>
-  <li><strong>Technologies Used:</strong> [List of key technologies/frameworks]</li>
-  <li><a href="LINK_TO_YOUR_SECOND_PROJECT_REPO"><strong>View Project on GitHub</strong></a> | <a href="LINK_TO_YOUR_SECOND_PROJECT_LIVE_DEMO"><strong>Live Demo (if applicable)</strong></a></li>
-</ul>
-
----
 
 ## 📬 Get in Touch
 
