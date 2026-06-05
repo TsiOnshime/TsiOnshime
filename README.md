@@ -92,13 +92,13 @@ A responsive company landing page focused on UI design, performance, and clean f
 ---
 
 ## Get in Touch
-https://www.linkedin.com/in/tsion-shimelis-44729a397/
+
 
 <ul>
   <li>📍 Addis Ababa, Ethiopia</li>
   <li>📧 <a href="mailto:tshimelis23@gmail.com">tshimelis23@gmail.com</a></li>
   <li>🔗 <a href="https://github.com/TsiOnshime">GitHub: TsiOnshime</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/tsion-shimelis-389387264/">LinkedIn: Tsion Shimelis</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/tsion-shimelis-44729a397/">LinkedIn: Tsion Shimelis</a></li>
 </ul>
 
 <div align="center">
