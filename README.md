@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/G3xcMwNb/t.jpg" alt="Tsion Shimelis Profile Picture" style="height: 150px; object-fit: cover; border-radius: 100%; border: 3px solid #c7d2fe; box-shadow: 0 4px 12px rgba(99, 102, 241, 0.25);">
 
   <h1 style="color:#4f46e5;">Hi, I'm <strong>Tsion Shimelis</strong> 👋</h1>
-  <h3 style="color:#6d28d9;">Front-End Developer (React & Tailwind)</h3>
+  <h3 style="color:#6d28d9;">Software Engineering Student • Algorithms • System Design • Full-Stack Development</h3>
 
 </div>
 
@@ -11,47 +11,52 @@
 
 ## 🌸 About Me
 
-I'm a **Front-End Developer** specializing in building clean, modern, responsive user interfaces using **React** and **Tailwind CSS**.  
-I focus on creating beautiful UI experiences and turning designs into pixel-perfect, accessible applications.
+I'm a **fourth-year Software Engineering student at Addis Ababa University** with a strong focus on **problem solving, algorithms, and system design**.
 
-I'm currently a **Software Engineering student at Addis Ababa University (4th year)** and building a strong portfolio of real-world front-end projects.
+I completed an intensive **Data Structures & Algorithms (DSA) training program with A2SV**, where I strengthened my ability to solve complex algorithmic problems, optimize solutions, and think critically about time and space complexity.
 
-I also completed **Backend Development at ALX**, giving me a full understanding of how front-end and backend systems connect.
+I also completed a **System Design course with A2SV**, where I learned how to design scalable systems, understand trade-offs, and structure backend architectures.
+
+Additionally, I completed a **software engineering internship at INSA**, where I gained real-world experience working in a professional development environment.
 
 ---
 
-## 🎨 What I Do
+## 🎯 What I Do
 
-- 🌐 Build responsive landing pages & marketing sites  
-- ⚛️ Create reusable UI components with **React + Tailwind**  
-- 🎨 Convert **Figma → React** with pixel-perfect precision  
-- 🧩 Develop clean, modular front-end architectures  
-- 🛠️ Integrate APIs, handle state, and optimize performance  
+- 🧠 Solve algorithmic problems (DSA & competitive programming)
+- ⚙️ Design scalable systems and backend architectures
+- 🐞 Debug, optimize, and improve code performance
+- 🌐 Build full-stack applications
+- 📊 Work with APIs and databases
+- 🤖 Explore machine learning projects
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced React patterns  
-- UI animations & micro-interactions  
-- Improving my full-stack workflow with Node.js and Django  
-- FreeCodeCamp’s **Responsive Web Development** course  
+- Advanced System Design patterns  
+- Distributed systems fundamentals  
+- Machine learning applications in real systems  
+- Scalable backend architecture design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### **Backend**
+### **Development**
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47AFA8?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### **Tools**
@@ -63,40 +68,26 @@ I also completed **Backend Development at ALX**, giving me a full understanding 
 
 ---
 
-## 🌟 Featured Projects (Frontend-Focused)
+## 🌟 Featured Projects
 
-### 🟣 Modern SaaS Landing Page
-A clean SaaS homepage with hero, pricing, CTA, and testimonials.  
-**Tech:** React, Tailwind  
-➡️ *Coming soon*
+### 🧩 A2SV DSA Solutions
+A structured collection of solved algorithmic problems covering arrays, strings, graphs, trees, dynamic programming, and greedy algorithms.
 
----
-
-### 🟣 Portfolio Website  
-Showcases skills, projects, and case studies.  
-**Tech:** React, Tailwind  
-➡️ *Coming soon*
+🔗 https://github.com/TsiOnshime/A2SV_Solved_Questions
 
 ---
 
-### 🟣 10-Component UI Library  
-Buttons, modals, dropdowns, navbars, sidebars, and more.  
-**Tech:** React, Tailwind  
-➡️ *(https://codeflow-landingpage.onrender.com/)*
+### 📈 Student Performance Predictor
+Machine learning project that predicts student academic performance using historical data and feature engineering.
+
+🔗 https://github.com/TsiOnshime/student-performance-predictor-ml
 
 ---
 
-### 🟣 Product Landing Page  
-A simple app landing page with download CTA.  
-**Tech:** React, Tailwind  
-➡️ *Coming soon*
+### 🌐 InnovateCorp Landing Page
+A responsive company landing page focused on UI design, performance, and clean frontend architecture.
 
----
-
-### 🟣 Figma to React Conversion  
-Pixel-perfect conversion of a free Figma design.  
-**Tech:** React, Tailwind  
-➡️ *Coming soon*
+🔗 https://github.com/TsiOnshime/InnovateCor
 
 ---
 
