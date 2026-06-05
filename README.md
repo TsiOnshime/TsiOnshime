@@ -9,7 +9,7 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 I'm a **fourth-year Software Engineering student at Addis Ababa University** with a strong focus on **problem solving, algorithms, and system design**.
 
@@ -21,18 +21,18 @@ Additionally, I completed a **software engineering internship at INSA**, where I
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
-- 🧠 Solve algorithmic problems (DSA & competitive programming)
-- ⚙️ Design scalable systems and backend architectures
-- 🐞 Debug, optimize, and improve code performance
-- 🌐 Build full-stack applications
-- 📊 Work with APIs and databases
-- 🤖 Explore machine learning projects
+- Solve algorithmic problems (DSA & competitive programming)
+- Design scalable systems and backend architectures
+- Debug, optimize, and improve code performance
+- Build full-stack applications
+- Work with APIs and databases
+- Explore machine learning projects
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced System Design patterns  
 - Distributed systems fundamentals  
@@ -41,7 +41,7 @@ Additionally, I completed a **software engineering internship at INSA**, where I
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Programming Languages**
 <p>
@@ -68,30 +68,31 @@ Additionally, I completed a **software engineering internship at INSA**, where I
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🧩 A2SV DSA Solutions
+### A2SV DSA Solutions
 A structured collection of solved algorithmic problems covering arrays, strings, graphs, trees, dynamic programming, and greedy algorithms.
 
 🔗 https://github.com/TsiOnshime/A2SV_Solved_Questions
 
 ---
 
-### 📈 Student Performance Predictor
+### Student Performance Predictor
 Machine learning project that predicts student academic performance using historical data and feature engineering.
 
 🔗 https://github.com/TsiOnshime/student-performance-predictor-ml
 
 ---
 
-### 🌐 InnovateCorp Landing Page
+### InnovateCorp Landing Page
 A responsive company landing page focused on UI design, performance, and clean frontend architecture.
 
 🔗 https://github.com/TsiOnshime/InnovateCor
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
+https://www.linkedin.com/in/tsion-shimelis-44729a397/
 
 <ul>
   <li>📍 Addis Ababa, Ethiopia</li>
